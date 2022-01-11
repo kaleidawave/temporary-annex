@@ -1,0 +1,12 @@
+[package]
+name = "temporary-annex"
+version = "0.0.0"
+edition = "2018"
+authors = [ "Ben <kaleidawave@gmail.com>" ]
+license = "MIT"
+description = "Helper for creating temporary annex on a collection"
+repository = "https://github.com/kaleidawave/temporary-annex"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
